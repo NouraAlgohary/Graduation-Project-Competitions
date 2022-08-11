@@ -5,7 +5,7 @@ Competition  |  Rules | Targeted Topics | Opening  | Timeline | Mansoura Winners
 Valeo  |  |   |       |      |    |
 ISEIC  |  |   |        |      |
 DELL  |  |   |       |  |
-Tiec(IbIECar)  |  |   |       |
+Tiec (IbTIECar)  |  |   |       |
 Egypt IOT  |  |   |       |
 ابداع  |  |   |       |
 Rally Egypt  |  |   |       |
