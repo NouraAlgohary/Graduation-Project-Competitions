@@ -4,7 +4,7 @@ Competition  |  Rules | Targeted Topics | Opening  | Timeline | Mansoura Partici
 ------------- | ---------------------------- | ------------- | --------- | --------- | ----------- | --------------
 Valeo  |  |   |       |      |    |
 ISEIC  |  |   |        |      |
-DELL  |  |   |       |  |
+DELL(Envision The Future) |  |   |       |  |
 Tiec (IbTIECar)  |  |   |       |
 Egypt IOT  |  |   |       |
 ابداع  |  |   |       |
