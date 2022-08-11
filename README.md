@@ -1,6 +1,6 @@
 # Graduation-Project-Competitions
 This is a collection of important competitions....etc
-Competition  |  Rules | Targeted Topics | Opening  | Timeline | Mansoura Winners | Mansoura Participants
+Competition  |  Rules | Targeted Topics | Opening  | Timeline | Mansoura Participants | Mansoura Winners
 ------------- | ------------- | ------------- | --------- | --------- | ----------- | --------------
 Valeo  |  |   |       |      |    |
 ISEIC  |  |   |        |      |
