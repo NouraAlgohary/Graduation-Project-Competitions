@@ -1,7 +1,7 @@
 # Graduation-Project-Competitions
 This is a collection of important competitions....etc
 <br/>***TO BE UPDATED..***
-Competition  | YEAR |Eligibility |           Targeted Topics                     | Opening  | Stages | Mansoura Participants | Mansoura Winners
+Competition  | YEAR | Eligibility |        Targeted Topics        | Opening  | Stages | Mansoura Participants | Mansoura Winners
 :---:  | ------ | :-------------------------------------------------------------------------  |:---  | --------- | :---  | :-----------------------------------  | :--- 
 |<img width=50/>|<img width=1000/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 **Valeo**  | 2021 |:black_square_button: All college students  <br />:black_square_button: 2-5 members |  | 15 November| :one: Registration: <ul><li>Creating an account and participate in the challenge <li> 3-min video about the project </ul>:two: Project accelerations </ul><br/>:three: 3-min to present the project|  |
