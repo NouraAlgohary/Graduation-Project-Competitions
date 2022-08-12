@@ -49,7 +49,6 @@
       from other people or prewritten code
     </td>
     <td>
-      <ul>
         <li>3D printing</li>
         <li>Artificial satellites</li>
         <li>Aviation</li>
@@ -78,7 +77,6 @@
         <li>Wearable technology</li>
         <li>Navigation and guidance</li>
         <li>Wireless communications / networks<Artificial intelligence</li>
-      </ul>
     </td>
     <td align="center">5 December</td>
     <td>Industrial 3d printer</td>
@@ -126,11 +124,8 @@
   </tr>
   <tr>
     <td align="center">
-      <b
-        ><a href="https://emcenvisionthefuture.com/"
-          >DELL(Envision The Future)</a
-        ></b
-      >
+      <b>
+        <a href="https://emcenvisionthefuture.com/">DELL(Envision The Future)</a></b>
     </td>
     <td align="center">2021</td>
     <td>
@@ -175,12 +170,7 @@
   </tr>
   <tr>
     <td align="center">
-      <b
-        ><a
-          href="https://tiec.gov.eg/arabic/Programs/IBTIECAR/Pages/default.aspx"
-          >Tiec(IbTIECar)</a
-        ></b
-      >
+      <b><ahref="https://tiec.gov.eg/arabic/Programs/IBTIECAR/Pages/default.aspx">Tiec(IbTIECar)</a></b>
     </td>
     <td align="center">2021</td>
     <td></td>
@@ -228,16 +218,11 @@
   </tr>
   <tr>
     <td align="center">
-      <b
-        ><a href="http://www.qu.edu.qa/competition/aicompetition"
-          >Qatar's Artificial Intelligence Competition</a
-        ></b
-      >
+      <b><a href="http://www.qu.edu.qa/competition/aicompetition">Qatar's Artificial Intelligence Competition</a></a>
     </td>
     <td align="center">2021</td>
     <td>🔲The maximum number in a team shall not exceed 3 participants.</td>
     <td>
-      <ul>
         <li>Healthcare solutions</li>
         <li>AI in Smart Cities</li>
         <li>Fintech and AI</li>
@@ -253,7 +238,6 @@
         <li>Crowd monitoring and behavior analysis and prediction</li>
         <li>Detection and prevention of attacks and malware</li>
         <li>Mitigating Logistical disruptions to the supply chain</li>
-      </ul>
     </td>
     <td align="center">31 January</td>
     <td>
