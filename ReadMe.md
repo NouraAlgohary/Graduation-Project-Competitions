@@ -153,16 +153,10 @@
     <td>
       ✔️2021 | 2nd Place Winner: Agricola<br />
       <a href="https://www.facebook.com/noran.ali.33">📞 Nouran Ali<br /></a>
-      <a href="https://www.facebook.com/profile.php?id=100012343417259"
-        >📞Ro’aa Seraj<br
-      /></a>
-      <a href="https://www.facebook.com/fatma.elzahraa.58"
-        >📞 Fatma Taysir<br
-      /></a>
+      <a href="https://www.facebook.com/profile.php?id=100012343417259">📞Ro’aa Seraj<br/></a>
+      <a href="https://www.facebook.com/fatma.elzahraa.58">📞 Fatma Taysir<br/></a>
       📞 Aya Adel<br />
-      <a href="https://www.facebook.com/bassant.rafaat.5"
-        >📞 Bassant Raafat<br
-      /></a>
+      <a href="https://www.facebook.com/bassant.rafaat.5">📞 Bassant Raafat<br/></a>
       ✔️ **2020 | 2nd Place Winner:<br />
       Driver Distraction System:<br />
       A Deep Learning Approach
@@ -170,7 +164,7 @@
   </tr>
   <tr>
     <td align="center">
-      <b><ahref="https://tiec.gov.eg/arabic/Programs/IBTIECAR/Pages/default.aspx">Tiec(IbTIECar)</a></b>
+      <b><a href="https://tiec.gov.eg/arabic/Programs/IBTIECAR/Pages/default.aspx">Tiec(IbTIECar)</a></b>
     </td>
     <td align="center">2021</td>
     <td></td>
@@ -221,7 +215,7 @@
       <b><a href="http://www.qu.edu.qa/competition/aicompetition">Qatar's Artificial Intelligence Competition</a></a>
     </td>
     <td align="center">2021</td>
-    <td>🔲The maximum number in a team shall not exceed 3 participants.</td>
+    <td>☐ The maximum number in a team shall not exceed 3 participants.</td>
     <td>
         <li>Healthcare solutions</li>
         <li>AI in Smart Cities</li>
