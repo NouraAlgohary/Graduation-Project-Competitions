@@ -159,7 +159,7 @@
       📍 Aya Adel<br />
       <a href="https://www.facebook.com/bassant.rafaat.5">📍 Bassant Raafat<br/></a>
       ✔️ <b>2020 | 2nd Place Winner: Driver Distraction System: A Deep Learning Approach</b>
-      📍 Abdulrahman AbouOuf <br/> 📍 Omar AlEzaby <br/> 📍 Omar AlSaqa <br/> 📍 Mohammad Nasser <br/>
+      📍 Abdulrahman AbouOuf <br/> 📍 Omar AlEzaby <br/> 📍 <a href="https://www.facebook.com/o.alsaqa">Omar AlSaqa </a><br/> 📍 Mohammad Nasser <br/>
       ✔️<b> 2022 | TOP 25: Exoskeleton arm and hand orthosis (brace)</b>
       📍 <a href="https://www.facebook.com/saifaleslam1219"> Seif Maghraby <br /></a>
       📍  Amaal A.Abdlhaleem <br/>  📍 Ahmed Elmorshedy <br/>  📍 Amr Elhafy <br/> 📍 hager Shiref <br/> 📍 zeyad tarek <br/> 📍 muhamed amgad <br/> 📍 Anas Alnagar <br/> 📍 Nada Abid <br/> 📍 Samir Saad <br/>
