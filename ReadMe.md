@@ -263,12 +263,12 @@
     <td><li>General</li>
       <li>Technology</li></td>
     <td align="center">February</td>
-    <td> 1️⃣ Launch Event
-      2️⃣ Awareness & Ideation
-      3️⃣ Deadline Feb 15
-      4️⃣ Pre-Incubation Program
-      5️⃣ Startups acceleration Program
-      6️⃣ Rally Final
+    <td> 1️⃣ Launch Event<br/>
+      2️⃣ Awareness & Ideation<br/>
+      3️⃣ Deadline Feb 15<br/>
+      4️⃣ Pre-Incubation Program<br/>
+      5️⃣ Startups acceleration Program<br/>
+      6️⃣ Rally Final<br/>
     </td>
     <td>✔️<b>2022 1st place: <br>
       📍 <a href="https://www.facebook.com/saifaleslam1219"> Seif Maghraby <br /></a>
