@@ -327,10 +327,11 @@
       ✔️<b>Design and Develop IoT Wearable Medical Devices Powered and Charged
             via Photovoltaic Systems </b><br/>
       ✔️<b>DermAI</b><br/>
+      📍 <a href="https://www.facebook.com/omar.az.79274">Omar Adel </a><br/>
       ✔️<b>Smart Robot for child development and protection, using storytelling and
         facial recognition</b><br/>
       ✔️<b>Biomix</b><br/>
-      📍 <a href="https://www.facebook.com/youssefelmahdy323"> Hadeel Mohamed </a><br/>
+      📍 <a href="https://www.facebook.com/seif.elden.5036"> Hadeel Mohamed </a><br/>
       ✔️<b>PCR (polymerase chain reaction) </b><br/>
   </td>
   </tr>
