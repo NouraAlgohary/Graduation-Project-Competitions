@@ -100,7 +100,7 @@
       Vision techniques<br />
       📍 Osama Yasser Saber<br />
       📍 Tasneem Nabil El-Ghobashy<br />
-      📍 Youssef Abdelhadi El-Mahdy<br />
+      📍 <a href="https://www.facebook.com/youssefelmahdy323">Youssef Abdelhadi El-Mahdy<br /></a>
       📍 Marwa Kamel Mokalad Ahmed Hamdy<br />
       📍 Shehata<br />
       ✔️ <b>Regeneration Of Green Energy In Highway<br /></b>
@@ -330,6 +330,7 @@
       ✔️<b>Smart Robot for child development and protection, using storytelling and
         facial recognition</b><br/>
       ✔️<b>Biomix</b><br/>
+      📍 <a href="https://www.facebook.com/youssefelmahdy323"> Hadeel Mohamed </a><br/>
       ✔️<b>PCR (polymerase chain reaction) </b><br/>
   </td>
   </tr>
