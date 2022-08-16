@@ -336,9 +336,14 @@
   </td>
   </tr>
 </table>
+   _____________________________________________
+<h1>For help</h1>
+<a href="https://www.linkedin.com/in/m-a-mansour/">Eng/Mohamed Mansour </a><br/>
+<a href="https://www.facebook.com/profile.php?id=100002502936456">Eng/Mohamed Abdel-Naby </a><br/>
+   _____________________________________________
   <h3><i>More detailed <a href="https://docs.google.com/document/d/1v2MFjTeXVsTtnqSkYqkgJU2x7aWQv7Lbx6X5hqaN8as/edit#heading=h.qyhhmvnrujor">Document</a></i></h3>
-  _______________________________________
-  <h3><i>Participants </i></h3>
+   _____________________________________________  
+<h3><i>Participants </i></h3>
 <a href="https://github.com/ahmedkashwaa"> Ahmed Kachwaa <br/>
 <a href="https://github.com/Basma22Mostafa"> Basma Mostafa<br/>
 <a href="https://github.com/EmanElhagrasy"> Eman Saad<br/>
