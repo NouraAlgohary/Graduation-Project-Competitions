@@ -279,7 +279,7 @@
   </tr>
   <tr>
     <td align="center">
-      <b><a href="http://www.qu.edu.qa/competition/aicompetition">Qatar's Artificial Intelligence Competition</a></a>
+      <b><a href="http://www.qu.edu.qa/competition/aicompetition">Qatar's Artificial Intelligence Competition</a></b>
     </td>
     <td align="center">2021</td>
     <td>☐ The maximum number in a team shall not exceed 3 participants.</td>
@@ -311,7 +311,7 @@
   </tr>
   <tr>
     <td align="center">
-      <b><a href="https://itida.gov.eg/English/Programs/Graduation/Pages/default.aspx">GRADUATION PROJECTS SUPPORT-ITIDA</a></a>
+      <b><a href="https://itida.gov.eg/English/Programs/Graduation/Pages/default.aspx">GRADUATION PROJECTS SUPPORT-ITIDA</a></b>
     </td>
     <td align="center">2021</td>
     <td>☐ Senior [fourth] year students enrolled at an Egyptian university/institution<br/>
@@ -337,6 +337,172 @@
       ✔️<b>PCR (polymerase chain reaction) </b><br/>
   </td>
   </tr>
+  <tr>
+    <td align="center">
+      <b><a href="https://tiec.gov.eg/English/Programs/Start-IT/Pages/default.aspx">STARTIT INCUBATION PROGRAM</a></b>
+    </td>
+    <td align="center">2022</td>
+    <td>☐ ICT-based or ICT-related<br/>
+      ☐ Innovativeness<br/>
+      ☐ A working prototype<br/>
+      ☐ Entrepreneur-led<br/>
+      ☐ Solving a real problem<br/>
+      ☐ Using Information Technology as a core product or as an enabler to provide a servicee<br/>
+      ☐ Commercialization Potential<br/>
+      ☐ Economic Viability<br/>
+      ☐ Scalability<br/>
+      ☐ Status<br/>
+      ☐ Dedication<br/>
+     </td>
+    <td>ICT categories</td>
+    <td align="center">August</td>
+    <td>
+      1️⃣ Application and Business Plan <br/>
+      2️⃣ Announcement of preliminary accepted applications<br/>
+      3️⃣ Interviews with shortlisted teams <br/>
+      4️⃣ Interviews results and call for pitching<br/>
+      5️⃣ Final Pitching<br>
+      6️⃣ Announcement of winners <br>
+      7️⃣ Beginning of Incubation<br>
+    </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <b><a href="https://tiec.gov.eg/Arabic/Programs/She-Program/Pages/default.aspx">هي رائدة</a></b>
+    </td>
+    <td align="center">2022 Form <a href="https://docs.google.com/forms/d/e/1FAIpQLScYNz4C6fiRzlOc4jJ55gqshAcQdqPHBr5mwOypmmDzFl_KQw/viewform?pli=1">link </a></td>
+    <td>☐ ICT-based or ICT-related<br/>
+      ☐ فكرة مشروع<br/>
+      ☐ أي مشروع يمكن ترقيته بواسطة موقع إلكتروني على الإنترنت أو واجهة تسويق رقمي<br/>
+     </td>
+    <td>تكنولوجيا المعلومات والاتصالات</td>
+    <td align="center">August</td>
+    <td>
+      1️⃣ الفرز والاختيار <br/>
+      2️⃣ التحقق من صحة الأفكار<br/>
+      3️⃣ نماذج الأعمال <br/>
+    </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <b><a href="https://www.facebook.com/EgyptianEngineeringDay/?fref=ts">EED - Egyptian Engineering Day (يوم الهندسة المصري )
+</a></b>
+    </td>
+    <td align="center">2022 Form <a href="https://reg.eed.eg/?fbclid=IwAR0LvtWd3g3o8tia-57uDFqaG9ZXcdtfeMFBGNk2O1fFy6Tos2AuzJKNqb0">link </a></td>
+    <td>☐ A single contact person<br/>
+      ☐ Minimum 2 members and maximum 10 members<br/>
+      ☐ Registration from PC, not any other device (mobile, iPad, etc.)<br/>
+     </td>
+    <td>تكنولوجيا المعلومات والاتصالات</td>
+    <td align="center">August</td>
+    <td>
+      1️⃣ Registration<br/>
+      2️⃣ Filtration <br/>
+      3️⃣ The registration fees = 500L.E <br/>
+      4️⃣ Acceptance mail/ Rejection mail<br/>
+    </td>
+    <td></td>
+  </tr>
+ 
+   <tr>
+    <td align="center">
+      <b><a href="https://www.facebook.com/events/402828654160814/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A220077683096106%7D%7D]%22%7D">Made In Egypt</a></b>
+    </td>
+    <td align="center">2021</td>
+    <td>☐ Both undergraduates and graduates can apply for this challenge once the registration is open<br/>
+      ☐ Minimum 2 members and maximum 10 members<br/>
+      ☐ Registration from PC, not any other device (mobile, iPad, etc.)<br/>
+     </td>
+    <td><li>Analytics platform (Software) </li>
+    <li>Challenge Title: API Development (Software) </li>
+    </td>
+    <td align="center">20 January</td>
+    <td>
+      1️⃣ 20th January - Online Orientation Session <br/>
+      2️⃣ 4th February - Deadline for Proposals Submission <br/>
+      3️⃣ 20th February - Finalists Announcement<br/>
+      4️⃣ 10th March - Capacity Building Trainings<br/>
+      5️⃣ 25th March - Deadline for Prototype Submission<br/>
+      6️⃣ 10th April - Winners Announcement and Rewards<br/>
+    </td>
+    <td></td>
+  </tr>
+  
+   <tr>
+    <td align="center">
+      <b><a href="https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/impact-festival.html">Intel® AI Global Impact Festival</a></b>
+    </td>
+    <td align="center">2021 </td>
+    <td>☐ Students, Next-Gen Technologists, and Future Developers<br/>
+      ☐ AI Faculties and Teachers<br/>
+      ☐ Implementation Partners<br/>
+      ☐ Government organizations involved in AI skilling<br/>
+     </td>
+    <td><li>Enriching Lives With AI Innovation </li>
+    </td>
+    <td align="center">May</td>
+    <td>
+      1️⃣ May 10: Festival announcement at Intel® Vision<br/>
+      2️⃣ August 1: Country 'Compete' entry submission due <br/>
+      3️⃣ September 1-30: Festival platform goes live <br/>
+      4️⃣ September 27-28: Global Winner Announcement at Intel® Innovation <br/>
+    </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <b><a href="https://www.itu.int/en/ITU-D/Innovation/Pages/2021-ITU-Innovation-Challenges.aspx">ITU Innovation Challenges</a></b>
+    </td>
+    <td align="center">2021</td>
+    <td>☐ Generation Connect Video Pitch Challenge - young ICT enthusiasts aged between 18 to 30 years were eligible to participate in this challenge<br/>
+      ☐ Only one entry per challenge was permitted. Multiple entries from the ​same applicant for one challenge would be disqualified<br/>
+     </td>
+    <td><li>Current challenge categories are closed </li>
+    </td>
+    <td align="center">June</td>
+    <td>
+      1️⃣ Launch<br/>
+      2️⃣ End <br/>
+      3️⃣ Generation Connect winners announcement <br/>
+      4️⃣ September 27-28: Global Winner Announcement at Intel® Innovation <br/>
+    </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <b><a href="https://gogreen.se.com/en/challenges/2022-middle-east-africa?lang=en">Schneider Go Green 2023 | Pre-Registration for Middle East & Africa</a></b>
+    </td>
+    <td align="center">2023 Form <a href="https://agorize.typeform.com/to/jaGDnUMd">link</a></td>
+    <td><b>Individual eligibility</b><br/>
+    ☐ University students worldwide are eighteen (18) years of age or older at the time of submission of the Initial Application<br/>
+      ☐ Full-time students in a or master’s program in business, engineering, marketing, science, or innovation<br/>
+      <b>Team Submission</b><br/>
+      ☐ A minimum of two individual registered students, and a maximum of four individual registered students<br/>
+      ☐ All team members must be studying in the same country<br/>
+      ☐ Each team must be gender diverse<br/>
+      ☐ Each individual entrant is allowed to enter the Contest as a part of only one team and to submit only one Initial Application
+     </td>
+    <td>
+    <li>De[coding] the Future</li><br/>
+    <li>Grids of the Future</li><br/>
+    <li>Supply Chain of the Future</li><br/>
+    <li>Homes of the Future</li><br/>
+    <li>Access to Energy</li><br/>
+    </td>
+    <td align="center">June</td>
+    <td>
+      1️⃣ Registrations and Submission<br/>
+      2️⃣ Regional Selection<br/>
+      3️⃣ Global Finals<br/>
+    </td>
+    <td></td>
+  </tr>
 </table>
    _____________________________________________
 <h1>For help</h1>
@@ -352,4 +518,4 @@
 <a href="https://github.com/mostafa204"> Mostafa Ahmed<br/>
 <a href="https://github.com/MostafaAllam-start"> Mostafa Allam<br/>
 <a href="https://github.com/shimaaelawady"> Shaymaa Elawady<br/>
-<a href="https://github.com/shroukhegazi"> Shrook Hegazi <br/>
+<a href="https://github.com/shroukhegazi"> Shrouk Hegazi <br/>
