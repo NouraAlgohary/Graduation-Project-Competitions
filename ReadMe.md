@@ -129,7 +129,7 @@
       <b>
         <a href="https://emcenvisionthefuture.com/">DELL(Envision The Future)</a></b>
     </td>
-    <td align="center">2021-2022</td>
+    <td align="center">2022-2023</td>
     <td>
       ☐ A team of minimum of 3 and a maximum of 6.<br />
       ☐ Validated by the Head of their Department.<br />
@@ -195,9 +195,9 @@
   </tr>
   <tr>
     <td align="center">
-      <b><a href="https://egypt.arabiotai.org/">Egypt IoT & AI Challenge</a></b>
+      <b><a href="https://register.arabiotai.org/">Egypt IoT & AI Challenge</a></b>
     </td>
-    <td align="center">2021 Form <b><a href="https://register.arabiotai.org/">link </td>
+    <td align="center">2022-2023 Form <b><a href="https://register.arabiotai.org/">link </td>
     <td>☐ Senior University Students, High School Students, and Startups<br>
         ☐ Individuals are welcomed<br>
         ☐ 10 for Graduation projects<br>
