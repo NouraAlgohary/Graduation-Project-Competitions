@@ -121,7 +121,7 @@
       📍 Hesham Ahmed Aboelkheir<br />
       📍 Omar Mohamed Yasien<br />
       📍 Amr Salama Abdo<br />
-      📍 Abdelrahman Galal El-Desoky
+      📍 Abdelrahman Galal El-Desoky   <th>Mansoura Winners</th>
     </td>
   </tr>
   <tr>
@@ -506,6 +506,106 @@
   
       
 </table>
+
+<table>
+  <thead>
+    <th>Company</th>
+    <th>Year</th>
+    <th>Eligibility</th>
+    <th>Winning Pojects</th>
+    <th>Opening</th>
+    <th>Stages</th>
+  </thead>
+    <tr>
+    <td align="center"><b><a href="https://eda.sw.siemens.com/en-US/"><b> Siemens EDA (Mentor Graphics)</a></b></td>
+    <td> </td>
+    <td></td>
+    <td>
+     <ul>
+      <li> Code and Functional Coverage for Angular Web Application Tested by Selenium Java Library.</li>
+      <li> DDR5 Memories Design and Verification using COCOTB Tool.</li>
+      <li>Digital Design and Verification of Safety-Critical Automotive Application.</li>
+      <li>Hardware Design and Implementation of Machine Learning Acceleration Network.</li>
+      <li>Implementation and Optimization for Machine Learning Hardware Acceleration on FPGA.</li>
+     </ul>     
+    </td>
+    <td> </td>
+    <td>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b><a href="https://www.si-vision.com/"><b> Si-Vision</a></b></td>
+    <td></td>
+    <td></td>
+    <td> 
+     <ul>
+      <li>Digital Implementation of DDR5 Controller.</li>
+      <li> Digital Verification of DDR5 Controller.</li>
+      <li>Low Power NB-LTE Transceiver Design (Team 1). </li>
+      <li>Low Power NB-LTE Transceiver Design (Team 2).</li>
+      <li>ASIC Implementation of RISC-V based PULPissimo Core.</li>
+      <li>Layout Design Automation.</li>
+     </ul>     
+    </td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b><a href="https://stdf.eg/"><b>STDF</a></b></td>
+    <td></td>
+    <td></td>
+    <td>
+     <ul>
+      <li>Digital Implementation of NB-IoT Rel 16 Physical Layer.</li>
+     </ul>     
+    </td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b><a href="https://seamlesswaves.com/"><b> Insspectrum, Egypt/Seamless Waves, France
+</a></b></td>
+    <td></td>
+    <td></td>
+    <td>
+     <ul>
+      <li>A massive MIMO mm Wave Transmitter and Receiver for 5G.</li>
+      <li>Spectrum Sensing for Wireless Signal Classification and Anomaly detection.</li>
+     </ul>    
+    </td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b><a href="https://najahnow.com/"><b> NajahNow</a></b></td>
+    <td></td>
+    <td></td>
+    <td> 
+     <ul>
+      <li>Missing Children Family-Reunion Using Facial Recognition.</li>
+     </ul>    
+    </td>
+    <td> </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td align="center"><b><a href="http://ipvalleyinc.com/"><b> IP Valley Inc., Canada</a></b></td>
+    <td></td>
+    <td></td>
+    <td>
+     <ul>
+      <li>Hardware Acceleration of DNA Sequence Classifier.</li>
+      <li>Hardware/Software Co-Design of Automotive Lane Detection System.</li>
+     </ul> 
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>  
    _____________________________________________
 <h1>For help</h1>
 <a href="https://www.linkedin.com/in/m-a-mansour/">Eng/Mohamed Mansour </a><br/>
