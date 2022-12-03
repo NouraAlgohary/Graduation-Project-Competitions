@@ -39,7 +39,7 @@
     <td align="center">
       <b><a href="https://iseic-adc.org/">ISEIC</a></b>
     </td>
-    <td align="center">2021-2022</td>
+    <td align="center">2022 - 2023</td>
     <td>
       ☐ All team members must be the age of 16 and over<br />
       ☐ Secondary schools, Colleges and Universities can have multiple teams.<br />
@@ -80,7 +80,7 @@
         <li>Navigation and guidance</li>
         <li>Wireless communications / networks<Artificial intelligence</li>
     </td>
-    <td align="center">5 December</td>
+    <td align="center">November <br /> Deadline: 15 December 2022</td>
     <td>Industrial 3d printer</td>
     <td>
       <b> 2021 Winners </b><br>
