@@ -169,11 +169,16 @@
   </tr>
   <tr>
     <td align="center">
-      <b><a href="https://tiec.gov.eg/English/Programs/IBTIECAR/Pages/default.aspx">Tiec(IbTIECar)<b/></a>
+      <b><a href="https://tiec.gov.eg/English/Programs/Start-IT/Pages/default.aspx#Process">Tiec(IbTIECar)<b/></a>
     </td>
-    <td align="center">2022 <br> Form <b><a href="https://docs.google.com/forms/d/1imq9_4Dy1W5A1WsC3I8qU3eOI6sQFnVSZYHg2MKhCFk/viewform?edit_requested=true">link</b></a></td>
-    <td> ☐ Students enrolled in ICT universities
-      الطلاب، المُسجلين في الجامعات التي لديها كليات متخصصة في تكنولوجيا المعلومات والاتصالات
+    <td align="center">2023 <br> Form <b><a href="https://tiec.gov.eg/English/Programs/Start-it/Pages/StartITPage.aspx">link</b></a></td>
+    <td> 
+      ☐ Idea Compliance – Applicants are only allowed to apply with Ideas related to Information and communications Technology (ICT). Entries with ideas outside the boundaries of ICT will be disqualified.</br>
+      ☐ Teams or Startups – either teams with prototypes/ proof of concept or startups that have been in business in less than one year can apply.
+      ☐ Team Size – Only teams are eligible to apply. The team size is at least two members. In case of you have a legally registered startup, It should be legally registered as limited liability company or joint stock company and less than one year in business.</br>
+      ☐ Dedication – Applicants who reach the pitching stage must testify that they will dedicate their full time/efforts to lead their projects when incubated and that there are no legal or social or vocational constraints that would forbid them from doing so.</br>
+      ☐ Age_– Applicants of any age above 18 year may be eligible to apply.</br>
+      ☐ Location – Applicants who are residents of Egypt including all provisional areas are eligible to participate given their acceptance to the criterion about dedication.
     </td>
     <td><li>تصميم الدوائر المتكاملة IC design  <li/><br/> 
     <li> سلسلة الكتل Block chain<li/><br/>
