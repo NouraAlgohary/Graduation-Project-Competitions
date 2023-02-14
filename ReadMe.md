@@ -258,9 +258,9 @@
   </tr>
   <tr>
     <td align="center">
-      <b><a href="http://ec.aast.edu/rallycompetition.php">Rally Egypt</a></b>
+      <b><a href="http://ec.aast.edu/rallycompetition.php?fbclid=IwAR1fxGmXjH5fKRCFrWfBVIU6WMPOiV-XHgjFSqUKa9XUWPIkkxrTrjNsQsYp">Rally Egypt</a></b>
     </td>
-    <td align="center">2021-2022</td>
+    <td align="center">2023 Form <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdWncMLZOV2WsxfP7rP6M_Mhjru4VwXFz15S_gdrLIBdu-UGA/viewform">link</td>
     <td>☐ Apply with an innovative startup idea through our website<br>
       ☐ Teams of up to 6 members (having both genders in the team is an asset)<br>
       ☐ At least 50% of all team members in universities’ tracks must be enrolled in a university in Egypt, including the team leader. (Proof of enrollment will be required)<br>
